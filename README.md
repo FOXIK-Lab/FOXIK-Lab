@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I'm a developer from Czechia, currently studying at a Secondary Technical School of Electronics.
+I'm a developer from Russia , currently studying at a Secondary Technical School of Electronics.
 
 Main language: C++
 Other languages & tools: Python, C#, HTML, Unity, Raspberry Pi
